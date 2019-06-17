@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bajracae/sendit/issues"
   },
-  "homepage": "https://github.com/bajracae/sendit#readme"
+  "homepage": "https://github.com/bajracae/sendit#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pusher": "^2.2.0"
+  }
 }
